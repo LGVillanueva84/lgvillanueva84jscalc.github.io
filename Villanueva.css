@@ -23,13 +23,16 @@
 
 .calculator-screen {
   width: 100%;
-  font-size: 2rem;
-  height: 80px;
+  font-size: 3rem;
+  height: 70px;
   border: 1px solid #2e86c0;
   background-color: #252525;
   color: #fff;
   vertical-align: top;
+  text-align:left;
   padding-top: 0px;
+  font-family: "Arial Black", Gadget, sans-serif;
+
 }
 
 button {
